@@ -2,7 +2,7 @@
 
 
 
-First extract the file libraries.zip and put lockales and put files lib and lockales to map Ninja GameLinux.
+First extract the file libraries.zip and put files lib and lockales to map NinjaGameLinux.
 
 Command in linux terminal:                                        
                                                                   
