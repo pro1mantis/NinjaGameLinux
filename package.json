@@ -1,7 +1,3 @@
-"publishConfig": {
-  "registry":"git://https://github.com/pro1mantis/NinjaGameV1Beta.git"
-},
-
 {
 "name": "NinjaGame v1",
 "main": "project.html",
