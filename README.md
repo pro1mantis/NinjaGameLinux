@@ -16,7 +16,7 @@ chmod +x NinjaGame
 
 Enjoy!
 
-The game version (full version) v2 was comming.
+The game version (full version) v2 is comming.
 
 Pleas share the game!!!
 
